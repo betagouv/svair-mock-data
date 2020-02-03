@@ -12,7 +12,7 @@ collections:
   - name: "people"
     label: "Déclarant"
     description: "Personnes présentes sur l'avis d'imposition"
-    folder: "data/people"
+    folder: "people"
     create: true
     extension: json
     format: json
