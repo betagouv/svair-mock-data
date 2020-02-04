@@ -70,9 +70,9 @@ collections:
     create: true
     extension: json
     format: json
-    identifier_field: "notice_number"
-    slug: "{{tax_number}}_{{notice_number}}-{{taxYear}}"
-    summary: "{{tax_number}}-{{notice_number}} {{taxYear}}"
+    identifier_field: "noticeNumber"
+    slug: "{{taxNumber}}_{{noticeNumber}}-{{taxYear}}"
+    summary: "{{taxNumber}}-{{noticeNumber}} {{taxYear}}"
     editor:
       preview: false
     fields:
