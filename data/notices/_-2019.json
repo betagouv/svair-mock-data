@@ -1,0 +1,24 @@
+{
+  "parts": 3,
+  "noticeNumber": 17260876324190,
+  "recoveryDate": "04/02/2020",
+  "earningsYear": 2019,
+  "familyComposition": "Célibataire",
+  "taxBeforeCorrection": {
+    "taxable": true,
+    "amount": 3454
+  },
+  "taxYear": 2019,
+  "tax": {
+    "taxable": true,
+    "amount": 2345345
+  },
+  "globalEarnings": 1435435,
+  "taxableEarnings": 345345,
+  "referenceEarnings": 2343245,
+  "dependents": 3,
+  "taxNumber": 68206456342460,
+  "address": "9d64c0ae-5d2c-40be-b9e6-0e3174e912c2",
+  "person1": "7ca408e5-cbb5-4b4b-8597-40eba2043b91",
+  "statementDate": "04/02/2020"
+}
