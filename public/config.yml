@@ -46,7 +46,7 @@ collections:
     extension: json
     format: json
     identifier_field: "id"
-    slug: "{{id}}_{{line1}}-{{zipCode}}-{{city}}"
+    slug: "{{id}}_{{zipCode}}-{{city}}"
     summary: "{{line1}} {{zipCode}} {{city}}"
     editor:
       preview: false
