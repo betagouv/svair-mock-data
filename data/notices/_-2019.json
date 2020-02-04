@@ -1,0 +1,39 @@
+{
+  "parts": 2,
+  "noticeNumber": 52470224761390,
+  "recoveryDate": "04/02/2020",
+  "earningsYear": 2091,
+  "familyComposition": "Célibataire",
+  "taxBeforeCorrection": {
+    "taxable": true,
+    "amount": 1354
+  },
+  "taxYear": 2019,
+  "tax": {
+    "taxable": true,
+    "amount": 12345
+  },
+  "globalEarnings": 12325,
+  "taxableEarnings": 12354,
+  "referenceEarnings": 125,
+  "dependents": 2,
+  "taxNumber": 76516933500430,
+  "address": {
+    "line1": "kjhkjh",
+    "zipCode": "kjhkjh",
+    "city": "kjhkjh"
+  },
+  "person1": {
+    "title": "kjhkhjkjsdfh",
+    "birthname": "kjhkjhkj",
+    "name": "kjhhkjh",
+    "birthdate": "04/02/2020"
+  },
+  "statementDate": "04/02/2020",
+  "person2": {
+    "title": "kjhkjh",
+    "birthname": "kjhkjh",
+    "name": "jkhkjh",
+    "birthdate": "04/02/2020"
+  }
+}
