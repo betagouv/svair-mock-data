@@ -17,7 +17,7 @@ collections:
     extension: json
     format: json
     identifier_field: "id"
-    slug: "{{id}}_{{surname}}-{{name}}"
+    slug: "{{id}}"
     summary: "{{name}} {{surname}} né(e) le {{birthdate}}"
     editor:
       preview: false
@@ -46,7 +46,7 @@ collections:
     extension: json
     format: json
     identifier_field: "id"
-    slug: "{{id}}_{{zipCode}}-{{city}}"
+    slug: "{{id}}"
     summary: "{{line1}} {{zipCode}} {{city}}"
     editor:
       preview: false
@@ -71,8 +71,8 @@ collections:
     extension: json
     format: json
     identifier_field: "noticeNumber"
-    slug: "{{taxNumber}}_{{noticeNumber}}-{{taxYear}}"
-    summary: "{{taxNumber}}-{{noticeNumber}} {{taxYear}}"
+    slug: "{{taxNumber}}_{{noticeNumber}}"
+    summary: "Numéro fiscal : {{taxNumber}} - numéro d'avis : {{noticeNumber}} - année d'imposition : {{taxYear}}"
     editor:
       preview: false
     fields:
