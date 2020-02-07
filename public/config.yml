@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: betagouv/svair-mock-data
+  open_authoring: true
 
 publish_mode: editorial_workflow
 
