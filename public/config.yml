@@ -9,6 +9,8 @@ media_folder: public/media
 
 show_preview_links: false
 
+locale: "fr"
+
 collections:
   - name: "people"
     label: "Déclarant"
