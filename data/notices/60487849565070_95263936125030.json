@@ -11,7 +11,7 @@
   "tax": {
     "taxable": false
   },
-  "globalEarnings": 0,
+  "globalEarnings": 10000,
   "taxableEarnings": 0,
   "referenceEarnings": 0,
   "dependents": 1,
