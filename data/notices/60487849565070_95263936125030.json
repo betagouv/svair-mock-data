@@ -5,7 +5,7 @@
   "earningsYear": 2018,
   "familyComposition": "Célibataire",
   "taxBeforeCorrection": {
-    "taxable": true
+    "taxable": false
   },
   "taxYear": 2019,
   "tax": {
