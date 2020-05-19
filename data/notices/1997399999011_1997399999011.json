@@ -5,14 +5,14 @@
   "recoveryDate": "13/07/2019",
   "earningsYear": "2018",
   "familyComposition": "Célibataire",
-  "taxBeforeCorrection": { "taxable": true, "amount": 0 },
+  "taxBeforeCorrection": { "taxable": true, "amount": null },
   "taxYear": 2019,
-  "tax": { "taxable": true, "amount": 0 },
-  "globalEarnings": 18876,
-  "taxableEarnings": 18876,
-  "referenceEarnings": 18876,
+  "tax": { "taxable": true, "amount": null },
+  "globalEarnings": null,
+  "taxableEarnings": null,
+  "referenceEarnings": 0,
   "dependents": 1,
   "statementDate": "13/07/2019",
-  "noticeNumber": "1997399999010",
-  "taxNumber": "1997399999010"
+  "noticeNumber": "1997399999011",
+  "taxNumber": "1997399999011"
 }
