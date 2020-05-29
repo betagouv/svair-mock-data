@@ -1,19 +1,25 @@
 {
-  "person1": "2a7d1189-62af-4e25-b1e1-d5678ce5b9ad",
-  "person2": "3d28fc15-b6c3-49d7-8091-773c02a2fbf9",
-  "address": "2ec8f6d8-c298-420a-a936-ad2d978bb73c",
   "parts": 2,
+  "noticeNumber": "1997399999011",
   "recoveryDate": "10/10/2019",
   "earningsYear": "2018",
   "familyComposition": "Marié(e)s",
-  "taxBeforeCorrection": { "taxable": true, "amount": null },
-  "taxYear": 2019,
-  "tax": { "taxable": true, "amount": null },
-  "globalEarnings": null,
-  "taxableEarnings": null,
+  "taxBeforeCorrection": {
+    "taxable": true,
+    "amount": null
+  },
+  "taxYear": 2020,
+  "tax": {
+    "taxable": true,
+    "amount": null
+  },
+  "globalEarnings": 1000,
+  "taxableEarnings": 1001,
   "referenceEarnings": 0,
   "dependents": 1,
+  "taxNumber": "1997399999011",
+  "address": "2ec8f6d8-c298-420a-a936-ad2d978bb73c",
+  "person1": "2a7d1189-62af-4e25-b1e1-d5678ce5b9ad",
   "statementDate": "13/07/2019",
-  "noticeNumber": "1997399999011",
-  "taxNumber": "1997399999011"
+  "person2": "3d28fc15-b6c3-49d7-8091-773c02a2fbf9"
 }
