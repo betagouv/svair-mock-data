@@ -1,8 +1,8 @@
 {
   "parts": 2,
   "noticeNumber": "1997399999011",
-  "recoveryDate": "10/10/2019",
-  "earningsYear": "2018",
+  "recoveryDate": "10/10/2020",
+  "earningsYear": 2019,
   "familyComposition": "Marié(e)s",
   "taxBeforeCorrection": {
     "taxable": true,
@@ -20,6 +20,6 @@
   "taxNumber": "1997399999011",
   "address": "2ec8f6d8-c298-420a-a936-ad2d978bb73c",
   "person1": "2a7d1189-62af-4e25-b1e1-d5678ce5b9ad",
-  "statementDate": "13/07/2019",
+  "statementDate": "13/07/2020",
   "person2": "3d28fc15-b6c3-49d7-8091-773c02a2fbf9"
 }
