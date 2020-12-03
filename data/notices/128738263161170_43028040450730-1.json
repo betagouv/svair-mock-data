@@ -1,0 +1,23 @@
+{
+  "parts": 1,
+  "noticeNumber": 43028040450730,
+  "recoveryDate": "03/12/2020",
+  "earningsYear": 2019,
+  "familyComposition": "Marié(e)s",
+  "taxBeforeCorrection": {
+    "taxable": true
+  },
+  "taxYear": 2020,
+  "tax": {
+    "taxable": true
+  },
+  "globalEarnings": 26000,
+  "taxableEarnings": 26000,
+  "referenceEarnings": 26000,
+  "dependents": 1,
+  "taxNumber": 128738263161170,
+  "address": "04cf8514-8147-4bbc-a8f9-58aac1646706",
+  "person1": "005795fa-a96f-4d76-9a42-830515228c29",
+  "statementDate": "03/12/2020",
+  "person2": "04796c9f-4cf5-44dc-9bf0-bcfdab8eb902"
+}
