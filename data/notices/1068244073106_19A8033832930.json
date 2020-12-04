@@ -1,18 +1,25 @@
 {
-  "person1": "4a40db9b-a920-4788-9625-d6a27000f107",
-  "address": "f8fda5aa-cafc-4a7a-ba99-3fc3968d02b4",
-  "parts": 1,
+  "parts": 6,
+  "noticeNumber": "19A8033832930",
   "recoveryDate": "13/07/2019",
-  "earningsYear": "2018",
-  "familyComposition": "Célibataire",
-  "taxBeforeCorrection": { "taxable": true, "amount": 0 },
-  "taxYear": 2019,
-  "tax": { "taxable": true, "amount": 0 },
+  "earningsYear": 2019,
+  "familyComposition": "Marié(e)s",
+  "taxBeforeCorrection": {
+    "taxable": true,
+    "amount": 0
+  },
+  "taxYear": 2020,
+  "tax": {
+    "taxable": true,
+    "amount": 0
+  },
   "globalEarnings": 18876,
   "taxableEarnings": 18876,
   "referenceEarnings": 18876,
-  "dependents": 1,
+  "dependents": 3,
+  "taxNumber": "1068244073106",
+  "address": "f8fda5aa-cafc-4a7a-ba99-3fc3968d02b4",
+  "person1": "4a40db9b-a920-4788-9625-d6a27000f107",
   "statementDate": "13/07/2019",
-  "noticeNumber": "19A8033832930",
-  "taxNumber": "1068244073106"
+  "person2": "04796c9f-4cf5-44dc-9bf0-bcfdab8eb902"
 }
