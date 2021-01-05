@@ -5,11 +5,11 @@
   "earningsYear": 2019,
   "familyComposition": "Célibataire",
   "taxBeforeCorrection": {
-    "taxable": false
+    "taxable": true
   },
   "taxYear": 2020,
   "tax": {
-    "taxable": false
+    "taxable": true
   },
   "globalEarnings": 0,
   "taxableEarnings": 0,
